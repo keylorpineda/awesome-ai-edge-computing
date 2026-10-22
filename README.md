@@ -66,6 +66,7 @@
 - **Healthcare Monitoring** - Edge AI for wearable devices that monitor vital signs and detect anomalies without needing constant cloud connectivity.
 - **Autonomous Vehicles** - Running AI models on edge devices in vehicles for real-time decision-making and navigation.
 - **[DailyVox](https://getdailyvox.com)** - On-device AI voice diary app using Apple’s native frameworks for speech recognition and NLP, demonstrating privacy-first edge AI.
+- **[HealthyCropping](https://github.com/keylorpineda/healthycropping)** - Offline-first Android app (in development) that detects coffee, cacao and banana diseases with on-device TensorFlow Lite models.
 
 ## Learning Resources
 
